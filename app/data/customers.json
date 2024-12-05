@@ -1,0 +1,26 @@
+[
+  {
+    "CustomerID": 1,
+    "Name": "Customer 1",
+    "Age": 48,
+    "AnnualIncome": 872315,
+    "CreditScore": 402,
+    "ExistingLoans": 469580
+  },
+  {
+    "CustomerID": 2,
+    "Name": "Customer 2",
+    "Age": 30,
+    "AnnualIncome": 635410,
+    "CreditScore": 638,
+    "ExistingLoans": 387857
+  },
+  {
+    "CustomerID": 3,
+    "Name": "Customer 3",
+    "Age": 57,
+    "AnnualIncome": 572127,
+    "CreditScore": 600,
+    "ExistingLoans": 153948
+  }
+]
